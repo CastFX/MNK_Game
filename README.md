@@ -14,10 +14,11 @@ It placed 1st in the competition based on the win percentage with 100% winrate i
 Compile all the files or just launch MNK.exe from the command line:
 MNK {m} {n} {k}
 
-ex: MNK 4 4 4
+`MNK 4 4 4`
+
 To play in a 4x4 grid to match 4 Xs/Os against the AI
 
-ex MNK 3 3 3
+`MNK 3 3 3`
 To play Tic-Tac-Toe against the AI
 
 ### Who do I talk to? ###
