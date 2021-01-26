@@ -21,4 +21,4 @@ ex MNK 3 3 3
 To play Tic-Tac-Toe against the AI
 
 ### Who do I talk to? ###
-Christian Serra : castachris@hotmail.it
+Christian Serra : christianserra20@gmail.com
