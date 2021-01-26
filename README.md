@@ -19,6 +19,7 @@ MNK {m} {n} {k}
 To play in a 4x4 grid to match 4 Xs/Os against the AI
 
 `MNK 3 3 3`
+
 To play Tic-Tac-Toe against the AI
 
 ### Who do I talk to? ###
